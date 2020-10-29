@@ -1,0 +1,42 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+/* Utilities */
+body{
+	background: #FEFDFD;
+	color:rgba(0,0,0,0.7);
+  display: block;
+}
+
+p {
+  font-size: 21px;
+  font-weight: light;
+  font-family: 'Poiret One', cursive;
+  font-size: 17px;
+  right: 93px;
+  top: 18px;
+}
+h2 {
+  font-size: 41px;
+  font-weight: bolder;
+  font-family: 'Poiret One', cursive;
+}
+
+h3 {
+  font-size: 38px;
+  font-weight: bolder;
+  font-family: 'Poiret One', cursive;
+}
+a {
+  text-decoration: none;
+}
+.text-center {
+  text-align: center;
+}
+/* Custom design below! */
+

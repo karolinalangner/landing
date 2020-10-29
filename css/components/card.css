@@ -1,0 +1,33 @@
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.card {
+    display: flex;
+    box-shadow: 0 0 11px rgba(0,0,0,0.3);
+    width: 370px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 6px;
+    margin: 10px;
+    background-blend-mode: hue;
+    padding: 50px;
+}
+
+.card h2 {
+    color: white;
+    text-shadow: rgba(0,0,0,0.8);
+    
+}
+.card:hover {
+    font-weight: lighter;
+    background-blend-mode: luminosity;
+   
+}
+
+.line {
+    margin: 60px;
+}
