@@ -16,16 +16,15 @@
     position: absolute;
     top: 38px;
     top: 35px;
-    left: 194px;
+    left: 60px;
 }
 
 .subtitle{
     font-family: 'Poiret One', cursive;
     font-size: 32px;
     position: absolute;
-    left: 198px;
-    left: 198px;
-    top: 191px;
+    left: 89px;
+    top: 188px;
 }
 
 .btn {
@@ -39,7 +38,7 @@
     font-size: 17px;
     position: absolute;
     margin-top: 154px;
-    left: 193px;
+    left: 85px;
     }
  
 .btn:hover {
@@ -57,4 +56,3 @@
     right: 26px;
     position: absolute
 }
-
