@@ -8,13 +8,13 @@
     display: flex;
     box-shadow: 0 0 11px rgba(0,0,0,0.3);
     width: 370px;
-    height: 200px;
+    height: 180px;
     background-position: center;
     background-size: cover;
     border-radius: 6px;
     margin: 10px;
     background-blend-mode: hue;
-    padding: 50px;
+    padding: 40px;
 }
 
 .card h2 {

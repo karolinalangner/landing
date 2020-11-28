@@ -2,8 +2,9 @@
     padding: 80px;
     background: #FEFDFD;
     color: black;   
-    position: relative;
     align-items: center;
+    bottom: 0;
+    height: 35px;
 }
 
 .footer a {
